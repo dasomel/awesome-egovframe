@@ -42,6 +42,7 @@
 
 ### 개발 도구
 
+- [dasomel/egovframe-boot-starter-rag-eval](https://github.com/dasomel/egovframe-boot-starter-rag-eval) - LLM 채점 없이 결정적으로 재현 가능한 RAG 평가 하네스(recall@K·precision@K·MRR + 토큰 커버리지 기반 faithfulness). JUnit5/AssertJ와 선택적 Spring AI 연동.
 - [leejongyoung/homebrew-egovframe](https://github.com/leejongyoung/homebrew-egovframe) - 표준프레임워크 macOS 개발환경 설치용 Homebrew Tap (이후 공식 편입, 위 [기여 사례](#-커뮤니티-기여-사례) 참고).
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 
