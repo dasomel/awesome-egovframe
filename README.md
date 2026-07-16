@@ -31,6 +31,7 @@
 
 표준프레임워크에 끼워 쓸 수 있는 컴포넌트.
 
+- [gjh999/common-components-boot](https://github.com/gjh999/common-components-boot) - eGovFrame 5.0 공통 컴포넌트(회원·게시판·코드·권한 등)를 Spring Boot 3.5 + Thymeleaf로 전환한 프로젝트.
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 
 ### 템플릿 / 보일러플레이트
@@ -42,6 +43,7 @@
 
 ### 개발 도구
 
+- [gjh999/egov-support-skill](https://github.com/gjh999/egov-support-skill) - eGovFrame 5.0 Spring Boot·KRDS 개발용 AI 코딩 에이전트 스킬 모음(Claude·Codex·Cursor).
 - [dasomel/egovframe-boot-starter-rag-eval](https://github.com/dasomel/egovframe-boot-starter-rag-eval) - LLM 채점 없이 결정적으로 재현 가능한 RAG 평가 하네스(recall@K·precision@K·MRR + 토큰 커버리지 기반 faithfulness). JUnit5/AssertJ와 선택적 Spring AI 연동.
 - [leejongyoung/homebrew-egovframe](https://github.com/leejongyoung/homebrew-egovframe) - 표준프레임워크 macOS 개발환경 설치용 Homebrew Tap (이후 공식 편입, 위 [기여 사례](#-커뮤니티-기여-사례) 참고).
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
