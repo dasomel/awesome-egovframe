@@ -25,6 +25,7 @@
 
 ### 실행환경 / 런타임
 
+- [dasomel/egovframe-boot-starter-observability](https://github.com/dasomel/egovframe-boot-starter-observability) - MyBatis 계측·Log4j2 추적 상관관계·HikariCP 메트릭을 자동 배선하는 관측성 스타터.
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 
 ### 공통 컴포넌트 / 확장 모듈
@@ -44,12 +45,14 @@
 ### 개발 도구
 
 - [dasomel/egovframe-launcher](https://github.com/dasomel/egovframe-launcher) - 표준프레임워크 예제 프로젝트를 VSCode에서 빌드·Tomcat/Docker 연동 기동·디버깅하는 Go 기반 GUI 런처 및 CLI 스크립트 툴킷.
+- [EricSeokgon/egovframe-scaffold-mcp](https://github.com/EricSeokgon/egovframe-scaffold-mcp) - 표준프레임워크 공식 템플릿으로 신규 프로젝트를 생성하는 MCP 서버, AI 코딩 에이전트에서 사용(egov 5.x).
 - [gjh999/egov-support-skill](https://github.com/gjh999/egov-support-skill) - eGovFrame 5.0 Spring Boot·KRDS 개발용 AI 코딩 에이전트 스킬 모음(Claude·Codex·Cursor).
 - [leejongyoung/homebrew-egovframe](https://github.com/leejongyoung/homebrew-egovframe) - 표준프레임워크 macOS 개발환경 설치용 Homebrew Tap (이후 공식 편입, 위 [기여 사례](#-커뮤니티-기여-사례) 참고).
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 
 ### 통합 / 연동
 
+- [dasomel/egovframe-boot-starter-opendata](https://github.com/dasomel/egovframe-boot-starter-opendata) - 공공데이터포털(data.go.kr) 스타일 오픈API 호출을 표준화하는 Spring Boot 자동구성 스타터.
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 
 ### 샘플 / 예제 프로젝트
