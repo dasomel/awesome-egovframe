@@ -25,6 +25,7 @@
 
 ### 실행환경 / 런타임
 
+- [dasomel/egovframe-boot-starter-observability](https://github.com/dasomel/egovframe-boot-starter-observability) - MyBatis 계측·Log4j2 추적 상관관계·HikariCP 메트릭을 자동 배선하는 관측성 스타터.
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 
 ### 공통 컴포넌트 / 확장 모듈
@@ -33,6 +34,8 @@
 
 - [gjh999/common-components-boot](https://github.com/gjh999/common-components-boot) - eGovFrame 5.0 공통 컴포넌트(회원·게시판·코드·권한 등)를 Spring Boot 3.5 + Thymeleaf로 전환한 프로젝트.
 - [dasomel/egovframe-boot-starter-ai](https://github.com/dasomel/egovframe-boot-starter-ai) - Spring AI 기반 공공서비스용 횡단관심사(개인정보 마스킹·보안 가드레일·감사 로그·예외 폴백 등) 자동 구성 스타터.
+- [dasomel/egovframe-boot-starter-korean-crypto](https://github.com/dasomel/egovframe-boot-starter-korean-crypto) - KISA 국산 표준 블록암호(SEED, LEA)를 BouncyCastle로 감싼 Spring Boot 자동구성 스타터. RTE가 지원하지 않는 SEED·LEA를 서비스 빈으로 바로 사용할 수 있게 해준다.
+- [dasomel/egovframe-boot-starter-access-log](https://github.com/dasomel/egovframe-boot-starter-access-log) - 개인정보 처리 메서드에 어노테이션만 붙이면 접속기록(계정·접속일시·IP·정보주체·수행업무)을 해시체인 기반 위변조 방지와 함께 자동 적재하는 Spring Boot 자동구성 스타터.
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 
 ### 템플릿 / 보일러플레이트
@@ -44,12 +47,14 @@
 
 ### 개발 도구
 
+- [EricSeokgon/egovframe-scaffold-mcp](https://github.com/EricSeokgon/egovframe-scaffold-mcp) - 표준프레임워크 공식 템플릿으로 신규 프로젝트를 생성하는 MCP 서버, AI 코딩 에이전트에서 사용(egov 5.x).
 - [gjh999/egov-support-skill](https://github.com/gjh999/egov-support-skill) - eGovFrame 5.0 Spring Boot·KRDS 개발용 AI 코딩 에이전트 스킬 모음(Claude·Codex·Cursor).
 - [leejongyoung/homebrew-egovframe](https://github.com/leejongyoung/homebrew-egovframe) - 표준프레임워크 macOS 개발환경 설치용 Homebrew Tap (이후 공식 편입, 위 [기여 사례](#-커뮤니티-기여-사례) 참고).
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 
 ### 통합 / 연동
 
+- [dasomel/egovframe-boot-starter-opendata](https://github.com/dasomel/egovframe-boot-starter-opendata) - 공공데이터포털(data.go.kr) 스타일 오픈API 호출을 표준화하는 Spring Boot 자동구성 스타터.
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 
 ### 샘플 / 예제 프로젝트
